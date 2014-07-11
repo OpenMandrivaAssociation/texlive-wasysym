@@ -6,7 +6,7 @@
 # catalog-version 2.0
 Name:		texlive-wasysym
 Version:	2.0
-Release:	7
+Release:	8
 Summary:	LaTeX support file to use the WASY2 fonts
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/wasysym
