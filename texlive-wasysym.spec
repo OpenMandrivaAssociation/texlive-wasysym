@@ -1,6 +1,6 @@
 Name:		texlive-wasysym
 Version:	54080
-Release:	1
+Release:	2
 Summary:	LaTeX support file to use the WASY2 fonts
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/wasysym
