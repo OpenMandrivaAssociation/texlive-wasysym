@@ -3,7 +3,7 @@ Version:	54080
 Release:	2
 Summary:	LaTeX support file to use the WASY2 fonts
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/wasysym
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/wasysym
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/wasysym.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/wasysym.doc.r%{version}.tar.xz
